@@ -109,7 +109,7 @@ a {
 /* ///////////////////////////////////////////////////////////////      MAIN SECTION       ///////////////////////////////////////////////////////////////  */
 .main_container {
     height: 100vh;
-    background-image: url(../Images/mainsection.jpg);
+    background-image: url(../images/mainsection.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -217,17 +217,17 @@ a {
 }
 
 .welcome_siwa {
-    background-image: url(../Images/siwasection.jpg);
+    background-image: url(../images/siwasection.jpg);
 }
 
 .welcome_marsa {
-    background-image: url(../Images/marsasection.jpg);
+    background-image: url(../images/marsasection.jpg);
     margin-left: 5%;
     margin-right: 5%;
 }
 
 .welcome_alamein {
-    background-image: url(../Images/alameinsection.jpg);
+    background-image: url(../images/alameinsection.jpg);
 }
 
 .welcome_section {
@@ -393,27 +393,27 @@ a {
 }
 
 .offer_multiday {
-    background-image: url(../Images/Multi_days.jpg);
+    background-image: url(../images/multi_days.jpg);
 }
 
 .offer_safaris {
-    background-image: url(../Images/Safari.jpg);
+    background-image: url(../images/safari.jpg);
 }
 
 .offer_4wd {
-    background-image: url(../Images/4wd.jpg);
+    background-image: url(../images/fwd.jpg);
 }
 
 .offer_overnight {
-    background-image: url(../Images/Full_day.jpg);
+    background-image: url(../images/full_day.jpg);
 }
 
 .offer_historical {
-    background-image: url(../Images/Historical.jpg);
+    background-image: url(../images/historical.jpg);
 }
 
 .offer_fullday {
-    background-image: url(../Images/Overnight.jpg);
+    background-image: url(../images/overnight.jpg);
 }
 
 .offer_section {
@@ -536,7 +536,7 @@ a {
 
 /* /////////////////////////////////////////////////////////////////      AWARDS SECTION       /////////////////////////////////////////////////////////////  */
 .awards_container {
-    background-image: url(../Images/Awards.jpg);
+    background-image: url(../images/awards.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -681,7 +681,7 @@ a {
 
 /* //////////////////////////////////////////////////////////////////      DESIGNER SECTION       //////////////////////////////////////////////////////////////  */
 .designer_container {
-    background-image: url(../Images/Designer.jpg);
+    background-image: url(../images/designer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
